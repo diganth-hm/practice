@@ -11,6 +11,7 @@ function App() {
       <About />
       <Properties />
       <Why />
+      {/* Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae, debitis dolores obcaecati eligendi aut quaerat tempore accusamus voluptate sapiente quia temporibus, est consequuntur porro vero perspiciatis mollitia quas, labore dolor? */}
     </div>
   );
 }
