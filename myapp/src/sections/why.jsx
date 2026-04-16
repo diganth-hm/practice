@@ -1,4 +1,4 @@
-import People from "../assets/people.png";
+import People from "../assets/People.png";
 import hand from "../assets/hand.png";
 import like from "../assets/like.png";
 import Brain from "../assets/brain.png";
