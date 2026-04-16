@@ -11,8 +11,8 @@ function Testimonials() {
             <div className="text-center"><h1 className="text-7xl font-bold">Words from the</h1><h1 className="text-7xl font-bold">People who  found home</h1></div>
             <div className="relative mt-10 w-full h-80 bg-cover bg-center rounded-4xl" style={{ backgroundImage: `url(${testimonialbg})` }}>
                 <div className="absolute left-10 top-1/2 -translate-y-1/2 flex  gap-50">
-                    <img src={person2} alt="person" className="w-20 h-24 rounded-2xl object-cover opacity-80" />
-                    <img src={person1} alt="person" className="w-20 h-24 rounded-2xl object-cover opacity-80" />
+                    <img src={person2} alt="person" className="w-20 h-24 mt-12 rounded-2xl object-cover opacity-80" />
+                    <img src={person1} alt="person" className="w-25 h-30 mt-6 rounded-2xl object-cover opacity-80" />
                 </div>
                 <div className="absolute left-1/2 -translate-x-1/2 top-1/2 -translate-y-1/2">
                     <img src={samir} alt="Samir" className="w-36 h-52 rounded-2xl object-cover border-4 border-[#D0FF00]" />
