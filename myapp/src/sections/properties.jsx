@@ -25,10 +25,10 @@ function Properties() {
                                 <img src={loc} alt="Location" />
                                 <h2 className="text-white">Willow Park District</h2>
                             </div>
-                            <div className="flex justify-between">
+                            <div className="flex gap-4 ">
                                 <div className="flex mt-2">
                                     <img src={bed} alt="Bedrooms" />
-                                    <h3 className="text-white ml-2">3 Beds</h3>
+                                    <h3 className="text-white ml-2">3Beds</h3>
                                 </div>
                                 <div className="flex mt-2">
                                     <img src={bath} alt="Bathrooms" />
@@ -49,10 +49,10 @@ function Properties() {
                                 <img src={loc} alt="Location" />
                                 <h2 className="text-white">Willow Park District</h2>
                             </div>
-                            <div className="flex justify-between">
+                            <div className="flex gap-4 ">
                                 <div className="flex mt-2">
                                     <img src={bed} alt="Bedrooms" />
-                                    <h3 className="text-white ml-2">3 Beds</h3>
+                                    <h3 className="text-white ml-2">3Beds</h3>
                                 </div>
                                 <div className="flex mt-2">
                                     <img src={bath} alt="Bathrooms" />
@@ -73,10 +73,10 @@ function Properties() {
                                 <img src={loc} alt="Location" />
                                 <h2 className="text-white">Willow Park District</h2>
                             </div>
-                            <div className="flex justify-between">
+                            <div className="flex gap-4 ">
                                 <div className="flex mt-2">
                                     <img src={bed} alt="Bedrooms" />
-                                    <h3 className="text-white ml-2">3 Beds</h3>
+                                    <h3 className="text-white ml-2">3Beds</h3>
                                 </div>
                                 <div className="flex mt-2">
                                     <img src={bath} alt="Bathrooms" />
