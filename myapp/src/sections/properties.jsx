@@ -25,7 +25,7 @@ function Properties() {
                                 <img src={loc} alt="Location" />
                                 <h2 className="text-white">Willow Park District</h2>
                             </div>
-                            <div clasName="flex justify-between">
+                            <div className="flex justify-between">
                                 <div className="flex mt-2">
                                     <img src={bed} alt="Bedrooms" />
                                     <h3 className="text-white ml-2">3 Beds</h3>
@@ -49,7 +49,7 @@ function Properties() {
                                 <img src={loc} alt="Location" />
                                 <h2 className="text-white">Willow Park District</h2>
                             </div>
-                            <div clasName="flex justify-between">
+                            <div className="flex justify-between">
                                 <div className="flex mt-2">
                                     <img src={bed} alt="Bedrooms" />
                                     <h3 className="text-white ml-2">3 Beds</h3>
@@ -73,7 +73,7 @@ function Properties() {
                                 <img src={loc} alt="Location" />
                                 <h2 className="text-white">Willow Park District</h2>
                             </div>
-                            <div clasName="flex justify-between">
+                            <div className="flex justify-between">
                                 <div className="flex mt-2">
                                     <img src={bed} alt="Bedrooms" />
                                     <h3 className="text-white ml-2">3 Beds</h3>

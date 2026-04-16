@@ -1,10 +1,10 @@
 import People from "../assets/People.png";
 import hand from "../assets/hand.png";
 import like from "../assets/like.png";
-import Brain from "../assets/brain.png";
+import brain from "../assets/brain.png";
 
 
-function why() {
+function Why() {
     return (
         <div id="why" className="mt-20 ml-10 mr-10">
             <div className="w-1/2 ml-120"> <h1 className="text-7xl font-bold" >Why homebuyers</h1><h1 className="ml-15 text-7xl font-bold"> trust heavenly </h1></div>
@@ -16,7 +16,7 @@ function why() {
                     <p className="text-lg font-normal text-black ml-7 mt-5 mr-5">We listen before we recommend.your comfort guides every step</p>
                 </div>
                 <div className="w-90 h-90 bg-[#E5E5E5] rounded-4xl"><div className="bg-white mt-20 ml-35  rounded-full p-2 inline-block">
-                    <img src={Brain} alt="group" className="w-16 h-16 rounded-full object-cover" />
+                    <img src={brain} alt="group" className="w-16 h-16 rounded-full object-cover" />
                 </div>
                     <h1>Neighborhood Knowledge</h1>
                     <p>We know  the streets , the people,the community culture</p>
@@ -39,4 +39,4 @@ function why() {
         </div>
     );
 }
-export default why;
+export default Why;
