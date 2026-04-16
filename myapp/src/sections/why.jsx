@@ -18,22 +18,24 @@ function Why() {
                 <div className="w-90 h-90 bg-[#E5E5E5] rounded-4xl"><div className="bg-white mt-20 ml-35  rounded-full p-2 inline-block">
                     <img src={brain} alt="group" className="w-16 h-16 rounded-full object-cover" />
                 </div>
-                    <h1>Neighborhood Knowledge</h1>
-                    <p>We know  the streets , the people,the community culture</p>
+                  <div className="ml-15">  <h1 className="text-xl font-semibold ml-15 mt-10">Neighborhood </h1><h1 className="text-xl font-semibold ml-18"> Knowledge</h1></div>
+                    <p className="text-lg font-normal text-black ml-7 mt-5 mr-5">We know the streets, the people, the community culture</p>
                 </div>
-            </div >
+            </div>
             <div className="flex ml-90 gap-95 mt-1">
                 <div className="w-90 h-90 bg-[#E5E5E5] rounded-4xl">
                     <div className="bg-white mt-20 ml-35  rounded-full p-2 inline-block">
                     <img src={like} alt="group" className="w-16 h-16 rounded-full object-cover" />
                 </div>
-                <h1>Clear,Honest Information</h1><p>No hidden fees.No confusinglanguage. Just clarity you can rely on</p></div>
+                  <div className="ml-15">  <h1 className="text-xl font-semibold ml-15 mt-10">Clear, Honest</h1><h1 className="text-xl font-semibold ml-18"> Information</h1></div>
+                    <p className="text-lg font-normal text-black ml-7 mt-5 mr-5">No hidden fees. No confusing language. Just clarity you can rely on</p>
+                </div>
                 <div className="w-90 h-90 bg-[#E5E5E5] rounded-4xl">
                     <div className="bg-white mt-20 ml-35  rounded-full p-2 inline-block">
                     <img src={hand} alt="group" className="w-16 h-16 rounded-full object-cover" />
                 </div>
-                <h1>Stress-Free Guidance</h1>
-                <p>From search to closing,we supportyou with steady ,calm commmunication</p>
+                  <div className="ml-15">  <h1 className="text-xl font-semibold ml-15 mt-10">Stress-Free </h1><h1 className="text-xl font-semibold ml-18"> Guidance</h1></div>
+                    <p className="text-lg font-normal text-black ml-7 mt-5 mr-5">From search to closing, we support you with steady,  communication</p>
                 </div>
             </div>
         </div>
