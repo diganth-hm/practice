@@ -1,7 +1,7 @@
 import People from "../assets/People.png";
 import hand from "../assets/hand.png";
 import like from "../assets/like.png";
-import brain from "../assets/brain.png";
+import brain from "../assets/Brain.png";
 
 
 function Why() {
