@@ -13,6 +13,7 @@ function About(){
        
         </div>
         </div>
+        // Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatibus dolore placeat suscipit consectetur architecto illo velit libero sapiente sed quasi! Voluptates ipsum dignissimos facere quam blanditiis saepe consectetur numquam quos!
     )
 }
 export default About;
