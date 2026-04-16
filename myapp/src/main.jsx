@@ -9,6 +9,5 @@ render(
   </BrowserRouter>,
   document.getElementById('app')
 
-
-  // Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet itaque laudantium placeat aliquam voluptates rerum mollitia consequuntur, error adipisci inventore voluptatum harum nihil modi sed minus hic provident iure doloribus?
+  
 )
